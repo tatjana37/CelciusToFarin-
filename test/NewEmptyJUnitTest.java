@@ -29,10 +29,7 @@ public class NewEmptyJUnitTest {
      //обратный метод 
      //Assert.assertFalse(tul == 25); //проверка на ложь
 
-    
-    
-     
-   		
+    		
 	}
    
     }
